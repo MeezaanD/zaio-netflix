@@ -188,6 +188,12 @@
 	color: #999;
 }
 
+.contact {
+	text-align: start;
+	margin: 20px 0;
+	color: #999;
+}
+
 /* MEDIA QUERY */
 @media (max-width: 768px) {
 	.navbar {
